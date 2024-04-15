@@ -15,8 +15,8 @@ dependencies:
   audio_service: ^0.18.12
   audiotagger:
     git:
-      url: https://github.com/Sangwan5688/Audiotagger
-      ref: 90f2db5
+      url: https://github.com/Samurai016/Audiotagger
+      ref: master
   # bitsdojo_window: ^0.1.1+1 #For Desktops
   cached_network_image: ^3.3.1
   carousel_slider: ^4.2.1
@@ -36,12 +36,13 @@ dependencies:
     sdk: flutter
   flutter_lyric:
     git:
-      url: https://github.com/Sangwan5688/flutter_lyric
-      ref: 8cea262
+      url: https://github.com/ozyl/flutter_lyric
+      ref: master
   get_it: ^7.6.7
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   # home_widget: ^0.3.0
+  home_widget: ^0.5.0
   html_unescape: ^2.0.0
   just_audio: ^0.9.36
   # Discontinued, Use just_audio_windows instead.
@@ -59,8 +60,8 @@ dependencies:
   permission_handler: ^11.3.0
   persistent_bottom_nav_bar:
     git:
-      url: https://github.com/Sangwan5688/PersistentBottomNavBar
-      ref: ecdadb0
+      url: https://github.com/BilalShahid13/PersistentBottomNavBar
+      ref: d9fd3ba
   receive_sharing_intent: ^1.6.7
   share_plus: ^7.2.1
   sizer: ^2.0.15
